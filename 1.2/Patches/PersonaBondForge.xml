@@ -3,7 +3,7 @@
 
 	<Operation Class="PatchOperationFindMod">
 	  <mods>
-      <li>Vanilla Factions Expanded - Vikings</li>
+      <li>Persona Bond Forge</li>
     </mods>
 	  <match Class="PatchOperationAdd">
 	    <xpath>/Defs</xpath>
