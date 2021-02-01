@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Persona Coilgun Weapons</name>
+	<author>Hamster</author>
+	<packageId>hamster.personacoilguns</packageId>
+    <supportedVersions>
+	<li>1.2</li>
+	</supportedVersions>
+	<description>
+Adds persona variants of coilguns and adds Persona Bond Forge compatibility.
+	</description>
+	<modDependencies>
+        <li>
+			<packageId>VanillaExpanded.VWEC</packageId>
+			<displayName>Vanilla Weapons Expanded - Coilguns</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2375692535</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<!-- <li>OskarPotocki.VFE.Vikings</li> -->
+		<li>VanillaExpanded.VWEC</li>
+		<li>xedos.personabond</li>	
+	</loadAfter>
+</ModMetaData>
