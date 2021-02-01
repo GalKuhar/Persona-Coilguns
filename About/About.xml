@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Persona Coilgun Weapons</name>
+	<name>Persona Coilguns</name>
 	<author>Hamster</author>
 	<packageId>hamster.personacoilguns</packageId>
     <supportedVersions>
 	<li>1.2</li>
 	</supportedVersions>
 	<description>
-Adds persona variants of coilguns and adds Persona Bond Forge compatibility.
+	Adds persona versions of coilguns from Vanilla Weapons Expanded - Coilguns.
+	If you have Persona Bond Forge, also adds crafting recepies for them.
 	</description>
 	<modDependencies>
         <li>
