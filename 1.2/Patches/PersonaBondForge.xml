@@ -102,7 +102,7 @@
   </RecipeDef>
  
   <RecipeDef>
-    <defName>Make_VWE_Gun_GaussLance</defName>
+    <defName>Make_VWE_Gun_BondGaussLance</defName>
     <label>bond gauss lance</label>
     <description>Bond a gauss lance.</description>
     <jobString>Bonding a gauss lance.</jobString>
